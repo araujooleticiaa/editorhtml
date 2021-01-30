@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.exe
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.deps.json
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.runtimeconfig.json
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.runtimeconfig.dev.json
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.dll
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\ref\editorhtml.dll
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\bin\Debug\net5.0\editorhtml.pdb
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.AssemblyInfo.cs
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.dll
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\ref\editorhtml.dll
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.pdb
+C:\Users\user\Desktop\Dev\baltaio\editorhtml\obj\Debug\net5.0\editorhtml.genruntimeconfig.cache
